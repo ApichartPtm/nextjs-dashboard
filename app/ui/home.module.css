@@ -1,0 +1,8 @@
+.shape {
+  padding: 1rem;
+  border-top: 1rem solid red;
+  border-bottom: 1rem solid red;
+  border-left: 1rem solid red;
+  border-right: 1rem solid red;
+  border-radius: 10%;
+}
