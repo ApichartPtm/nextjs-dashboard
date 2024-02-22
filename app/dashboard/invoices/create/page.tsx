@@ -15,7 +15,7 @@ const page = async () => {
           },
           {
             label: 'Create Invoice',
-            href: '/dashboard/create',
+            href: '/dashboard/invoices/create',
             active: true
           }
         ]}
